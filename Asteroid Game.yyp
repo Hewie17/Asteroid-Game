@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "9a69e196-4e8f-4389-9bba-5169c847ef69",
+            "Value": {
+                "id": "838c3394-b727-4c53-bba7-edabc4a0e583",
+                "resourcePath": "objects\\obj_Player\\obj_Player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a7236a19-b78d-48fa-97b9-a17d7c88a599",
             "Value": {
                 "id": "a1bf5f4a-7d76-4c8b-80ad-7c076843e817",
@@ -180,6 +188,14 @@
                 "id": "2dcbd8d8-8c53-4514-9e0e-d6bb11a27d97",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ef0f6615-921e-4a70-9f5c-5f7e783d1652",
+            "Value": {
+                "id": "e6ccb749-1177-4565-a110-8173ee74d90b",
+                "resourcePath": "sprites\\spr_Galaxy_background\\spr_Galaxy_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
