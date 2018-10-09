@@ -114,7 +114,7 @@
             "Key": "7af7b706-eef8-4cb2-8434-134ecef1344d",
             "Value": {
                 "id": "54b61b2e-2cb2-4b94-9e82-da87cd984536",
-                "resourcePath": "rooms\\room_gm\\room_gm.yy",
+                "resourcePath": "rooms\\room_gm1\\room_gm1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -132,6 +132,14 @@
                 "id": "8954688c-cea1-4214-a898-c51d8b429445",
                 "resourcePath": "views\\800d41e0-e709-4980-8e9c-6325f10523c5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8a5103ad-a70d-4ccb-9dc3-b5b6433d3d6c",
+            "Value": {
+                "id": "7eca6132-732f-4109-8e31-84a29595a59a",
+                "resourcePath": "objects\\obj_asteriod_mini\\obj_asteriod_mini.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -162,7 +170,7 @@
             "Key": "b86e595b-ac6f-485f-88dd-0ac6eb950b2c",
             "Value": {
                 "id": "cbd5a631-655b-415e-bc08-2ccd5995265c",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourcePath": "sprites\\spr_asteriod_mini\\spr_asteriod_mini.yy",
                 "resourceType": "GMSprite"
             }
         },
